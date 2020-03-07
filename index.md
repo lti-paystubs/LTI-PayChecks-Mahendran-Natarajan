@@ -9,8 +9,7 @@
 Standard Pay Period
 
 # Pay Details
-## Header 2
-### Header 3
+
 
 - Bulleted
 - List
