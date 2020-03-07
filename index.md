@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to LTI - Paychex
 
 
 ### 2020
@@ -11,16 +11,7 @@ Standard Pay Period
 # Pay Details
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Pay FrequencyBi-weekly**
-
-[Link](url) and ![Image](src)
-```
+**Pay Frequency: Bi-weekly**
 
 Calculated Standard Rate
 Hourly Rate —.
