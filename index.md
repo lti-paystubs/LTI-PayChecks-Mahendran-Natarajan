@@ -1,17 +1,14 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/lti-paystubs/payslips/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2020
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Feb-2](2020/Feb-21.pdf)
 
 ```markdown
-Syntax highlighted code block
+Standard Pay Period
 
-# Header 1
+# Pay Details
 ## Header 2
 ### Header 3
 
@@ -21,12 +18,13 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Pay FrequencyBi-weekly**
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Calculated Standard Rate
+Hourly Rate —.
 
 ### Jekyll Themes
 
