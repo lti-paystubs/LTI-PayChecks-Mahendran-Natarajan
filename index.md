@@ -3,6 +3,12 @@
 
 ### 2020
 
+[June-30](2020/Jun-30.pdf)
+
+[June-15](2020/June-15.pdf)
+
+[June-02](2020/June-02.pdf)
+
 [May-19](2020/May-19.pdf)
 
 [May-05](2020/May-5.pdf)
