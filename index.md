@@ -3,6 +3,8 @@
 
 ### 2020
 
+[July-14](2020/July-14.pdf)
+
 [June-30](2020/Jun-30.pdf)
 
 [June-15](2020/June-15.pdf)
